@@ -30,3 +30,5 @@ public class min_max_static {
         System.out.println("Maximum element: " + max);
     }
 }
+
+//the abve 2 methods are same but the second one is more efficient as it only traverses the array once, while the first one sorts the array which takes O(n log n) time.
