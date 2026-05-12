@@ -1,4 +1,4 @@
-public class first_occurance {
+public class first_occurance_in_linear {
     public static void main(String[] args) {
 
         int[] arr = {10,20,30,40,50,30};
