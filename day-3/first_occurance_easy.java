@@ -7,7 +7,13 @@ public class first_occurance_easy {
             if(arr[j]==target){
                 System.out.println("Element Found at index "+j);
                 break;
+
+            } else if (arr[j] != target) {
+                System.out.println("Element Not Found");
+                break;
             }
         }
+        
+        }
     }
-}
+
