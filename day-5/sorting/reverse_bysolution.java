@@ -1,4 +1,4 @@
-public class solution {
+public class reverse_bysolution {
     public static void main(String[] args) {
         int x = 5;
         int y = 10;
