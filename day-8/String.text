@@ -29,3 +29,21 @@ in this we also count the space inside " " we can escape that ;
         3)diff b/w concat() and  +
                 concat is more faster than  + 
                 in jvm + convert then do but concate is better in jvm may be memory absorb in mili sec 
+        
+        4)sunstring()
+        using indexing number we divind and print the sub
+
+        5) index of (): 
+
+
+
+        10)trim() : remove the blank spae nside a string " " and combine the word 
+                        example : A B C -> ABC 
+
+        1)strip():
+
+        12) isBlank() : it usd also in the logn system when we eneter 
+                        the login cereditial it check either its blank or havimg some data if 
+                        having blank it notifiedits hace blank and enter the data .
+
+        13)Progra
