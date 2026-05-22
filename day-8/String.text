@@ -1,0 +1,31 @@
+->STRING IS A CLASS NOT PRIMITIVE DATA TYPE 
+->CONCEOTS: 
+        1)INDEXING
+        2)SUBSTRING
+        3)CONCINATE
+->
+SUBSTRING WRITTEN IN DOUBLE QUATATION "  "
+  EX: "123"
+  EX: "ABS"
+  IF WE REMOVE THE QUATATION THAN CONSIDER INTO DATA TYPE AS PRIMITIVE 
+
+* important :
+in this we also count the space inside " " we can escape that ;
+
+
+  concept that in tis  
+        1)append
+        2)CONCINATE
+
+
+
+        #concept that i dont know  
+        1)charat() : what is the use and how we do  
+
+        2) diff b/w == and equals 
+        == : compare the memeoray location 
+        equlas =  string check without memory intrupt (builtin method)
+
+        3)diff b/w concat() and  +
+                concat is more faster than  + 
+                in jvm + convert then do but concate is better in jvm may be memory absorb in mili sec 
