@@ -1,3 +1,4 @@
+package abstraction;
 interface Animal{
     void sound();
 }

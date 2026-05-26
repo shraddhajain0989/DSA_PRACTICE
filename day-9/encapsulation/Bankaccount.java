@@ -1,3 +1,4 @@
+package encapsulation;
 class BankAccount {
     private double balance;
     public BankAccount(double initialBalance){

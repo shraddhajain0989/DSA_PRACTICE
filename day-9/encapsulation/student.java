@@ -1,3 +1,4 @@
+package encapsulation;
 public class student {
     private String name;
     private int rollno;

@@ -1,3 +1,4 @@
+package encapsulation;
 
 //laptop price each =55000 , qty =2, total-110000 
 //laptop price each =55000 , qty =3, total-165000 

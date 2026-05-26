@@ -1,3 +1,4 @@
+package encapsulation;
 abstract class appliance{
     abstract void turnOn();
     public void turnOff() {
