@@ -1,0 +1,13 @@
+ inheritance :
+ _______________________
+    
+    -> Parent class 
+    ->child class
+    -> code reusability 
+    -> easy maintanance :(code is easy to modifed after so much of interval )
+    ->better structure 
+    ->time saving  
+    -> single/multithread/Hierarchicl 
+    > multiple inheritace is not possible ( two main paremt class cant be called in a single code)
+
+            -> using "extends" we extend the parent class to the child class
