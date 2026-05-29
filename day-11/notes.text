@@ -1,0 +1,22 @@
+//shared preference:
+    now (data store ): as it save the credintial so that it will not show login directly go to the dashboard
+
+//hashmap:
+     syntax:
+        hashmap< key , value > 
+        username and password stored in hashmap in the form of key pair value 
+
+methods :
+1)get()
+2)put
+3)contains key
+4)keyset
+
+
+
+//flutter :
+when model class creat in api hashmap used more 
+in backend integration all the thngs depend on 
+
+    example:
+    
