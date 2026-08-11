@@ -8,9 +8,10 @@ public class insert_elements {
         arr[1] = 20;
         arr[2] = 30;
         arr[3] = 40;
+        arr[4] = 50;
         for (int num : arr) {
             System.out.println(num +" ");
         }
-               
+            return;   
     }
 }

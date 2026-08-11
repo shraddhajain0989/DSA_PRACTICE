@@ -4,8 +4,8 @@ public class array_traversal {
         int[] arr = {1, 2, 3, 4, 5};
         
         for (int i = 0; i < arr.length; i++) {
-            System.out.println(arr[i]);// this will print each element on a new line
-            System.out.print(arr[i] + " ");// this will print all elements on the same line separated by space
+            System.out.println(arr[i]);// this "PRINTLN " will print each element on a new line
+            System.out.print(arr[i] + " ");// this"  PRINT "will print all elements on the same line separated by space
         }
     }
 }
